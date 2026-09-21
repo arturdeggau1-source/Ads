@@ -6,5 +6,8 @@
         "repo": "AgriciDaniel/claude-ads"
       }
     }
+  },
+  "enabledPlugins": {
+    "claude-ads@agrici-ads": true
   }
 }
